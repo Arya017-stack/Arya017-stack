@@ -10,6 +10,7 @@ I build end-to-end pipelines where AI models interact with tools, APIs, and real
 
 - 🎓 B.Tech CSE (AI/ML)  
 - ⚙️ Experience in AI workflows, MCP systems, and agent-based architectures  
+- 🚀 Building real-world AI systems, not just academic projects  
 - 📚 Currently learning:
   - Machine Learning (model building, evaluation, bias-variance)
   - Backend systems & databases
@@ -25,26 +26,30 @@ I build end-to-end pipelines where AI models interact with tools, APIs, and real
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
-Python • C • JavaScript • HTML • CSS • Bootstrap  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+---
 
 ### 🤖 AI / ML
-NumPy • Pandas • Scikit-learn  
-
-- ML fundamentals: preprocessing, feature engineering, evaluation  
-- Applying AI models inside real systems (not just notebooks)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 
 ---
 
 ### ⚙️ AI Systems & Workflows
-- Designed AI-powered automation systems using **n8n & Make**  
-- Built **multi-step AI pipelines** integrating LLMs, APIs, and tools  
-- Worked with **MCP (Multimodal Command Palette)** using Cursor  
-- Experience in **prompt engineering, agent logic, and tool orchestration**
+- n8n • Make • MCP • Cursor • APIs • LLM Integration
 
 ---
 
 ### 🗄️ Databases
-MySQL • MongoDB  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
